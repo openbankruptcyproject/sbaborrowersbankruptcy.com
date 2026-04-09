@@ -1,0 +1,244 @@
+# sbaborrowersbankruptcy.com -- Full Content
+
+This file contains the full text content of all pages on sbaborrowersbankruptcy.com.
+Part of the Open Bankruptcy Project (openbankruptcyproject.org).
+
+
+---
+
+## SBA Borrowers in Bankruptcy -- Complete Guide [2026]
+Source: https://sbaborrowersbankruptcy.com/
+
+SBA Borrowers in Bankruptcy
+
+Personal Guarantees, Co-Signers, and Multi-Debtor Strategies
+
+Yes -- SBA Debt Is Dischargeable
+
+Every type of SBA loan -- 7(a), 504, EIDL, and microloans -- can be discharged in bankruptcy. There is no special carve-out for government-guaranteed business debt the way there is for student loans. The SBA guarantee protects the lender from loss, not the borrower from discharge.
+
+But "dischargeable" does not mean simple. SBA loans create a web of liability that can include the business entity, the individual owner, the owner's spouse, co-owners, and sometimes outside co-signers. Each person's liability must be addressed separately. For a complete overview of SBA loans in bankruptcy, see our main SBA borrower bankruptcy guide.
+
+The Personal Guarantee Web
+
+SBA lending rules (SOP 50 10) require personal guarantees from every owner with 20% or more equity in the business. In practice, many lenders also require guarantees from owners below 20%, and sometimes from non-owner family members or business associates.
+
+Each guarantor is jointly and severally liable for the full loan balance. This means the SBA can collect the entire amount from any single guarantor -- not just their proportional share. When one guarantor files bankruptcy, the remaining guarantors become even more exposed because the SBA concentrates collection on them.
+
+Critical rule: A bankruptcy discharge only eliminates your obligation. It does not protect co-guarantors. If you file and your business partner does not, your partner is still liable for the entire balance. This is why coordinated multi-party filings are often necessary.
+
+Spouse Liability and Community Property
+
+Whether your spouse is exposed to your SBA debt depends on two factors: whether they signed the guarantee, and which state you live in.
+
+If your spouse signed: They are a co-guarantor and personally liable. Their discharge requires their own bankruptcy filing (or a joint filing with you).
+
+Community property states (Arizona, California, Idaho, Louisiana, Nevada, New Mexico, Texas, Washington, Wisconsin): Even if your spouse did not sign the guarantee, community property assets may be reachable by the SBA. Filing a joint Chapter 7 protects community property through the automatic stay protection in bankruptcy and extends the discharge to community claims.
+
+Common law states: If your spouse did not sign, their separate assets are generally not reachable. However, jointly-owned property (joint bank accounts, jointly-titled real estate) can still be at risk. A joint filing may still be strategic to maximize exemptions.
+
+Business Entity vs Personal Filing
+
+The most common mistake SBA borrowers make is filing only one type of bankruptcy when both are needed. Here is how the pieces fit together:
+
+Business-only filing (Chapter 7 or 11): Addresses the entity's debt. A Chapter 7 liquidates the business. A Chapter 11 or Subchapter V restructures it. Neither eliminates your personal guarantee. The SBA will pursue you individually after the business case closes.
+
+Personal-only filing (Chapter 7 or 13): Eliminates your personal guarantee obligation. The business entity's debt remains. If the business is still operating, this can work -- the business continues paying while your personal exposure is eliminated.
+
+Coordinated filing: The most comprehensive approach. The business files Chapter 7 (if closing) or Subchapter V (if continuing), and you file personal Chapter 7 simultaneously. This eliminates all SBA liability in one coordinated action. Courts in the same district can administer both cases efficiently.
+
+What About Collateral?
+
+Discharge eliminates personal liability, but it does not remove liens. If the SBA loan is secured by business equipment, inventory, accounts receivable, or real estate, the lender retains its lien on that collateral even after discharge.
+
+In a Chapter 7, the trustee will liquidate the collateral and pay the secured creditor. In Subchapter V, you can propose to pay the secured claim over time (potentially at a reduced amount through cramdown) while keeping the collateral.
+
+For SBA loans secured by your personal residence: your home is protected by your state's homestead exemption. If your equity is within the exemption limit, you keep the house and the SBA's junior lien can be stripped in Chapter 13 if the home is underwater.
+
+Coordinating Multiple Filings
+
+When an SBA loan involves multiple guarantors (common in partnerships and multi-member LLCs), the timing and coordination of bankruptcy filings is critical:
+
+Simultaneous filing: All guarantors file at the same time. This prevents the SBA from shifting collection to non-filing guarantors. Most efficient when all parties are equally unable to pay.
+
+Sequential filing: One guarantor files first, followed by others. This may be necessary when co-guarantors are in different financial situations or different states. The first filer's discharge eliminates only their obligation -- others must file to eliminate theirs.
+
+Chapter 13 co-debtor stay: If you file Chapter 13 (not Chapter 7), the co-debtor stay under 11 U.S.C. 1301 temporarily protects consumer co-debtors from collection. Note: this only applies to consumer debts, and SBA business loans may not qualify. Courts are split on whether personal guarantees of business debt are "consumer" for co-debtor stay purposes.
+
+Frequently Asked Questions
+
+Can SBA debt be discharged in bankruptcy?
+
+Yes. All types of SBA debt -- 7(a), 504, EIDL, and microloans -- are fully dischargeable in bankruptcy. There is no special exception for government-guaranteed business loans. Both the loan itself and any personal guarantee obligation can be eliminated through discharge.
+
+Does my spouse have to file bankruptcy if I have an SBA loan?
+
+Only if your spouse signed the personal guarantee or is a co-borrower. In community property states (Arizona, California, Idaho, Louisiana, Nevada, New Mexico, Texas, Washington, Wisconsin), community assets may be at risk even if only one spouse signed. Filing jointly can protect both spouses and community property.
+
+What happens to my business partner's liability if I file bankruptcy?
+
+Your bankruptcy discharge only eliminates your personal obligation. Co-guarantors and business partners who also signed personal guarantees remain fully liable for the entire loan balance. The SBA can -- and typically does -- pursue remaining guarantors after one files bankruptcy.
+
+Can I discharge an SBA loan without closing my business?
+
+Yes. If you file personal Chapter 7, your personal guarantee is discharged but the business entity's obligation remains. Alternatively, filing Subchapter V Chapter 11 allows the business to restructure the SBA loan while continuing operations. The choice depends on whether you want to keep the business running.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+
+Free Discharge Screener
+
+About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code),
+SBA Standard Operating Procedures (SOP 50 10, SOP 50 57), and state community property
+statutes. District-level statistics from the Federal Judicial Center Integrated Database
+(37.9 million cases, 94 districts, FY 2008-2024).
+This is educational content, not legal advice.
+
+Related Guides
+
+Credit Card Debt in Bankruptcy
+
+EIDL Loan Forgiveness
+
+1099-C Canceled Debt Guide
+
+Student Loans in Bankruptcy
+
+462+ Court Documents Freed from PACER
+
+We buy federal court records and donate them to RECAP so no one has to pay. Browse the archive →
+
+Have a Question?
+
+Open Bankruptcy Project provides free educational information. We are not a law firm.
+Nothing on this site constitutes legal advice. For advice about your specific situation,
+consult a licensed attorney.
+
+Select your state...
+Alabama
+Alaska
+Arizona
+Arkansas
+California
+Colorado
+Connecticut
+Delaware
+District of Columbia
+Florida
+Georgia
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York
+North Carolina
+North Dakota
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+Utah
+Vermont
+Virginia
+Washington
+West Virginia
+Wisconsin
+Wyoming
+American Samoa
+Guam
+Northern Mariana Islands
+Puerto Rico
+U.S. Virgin Islands
+
+I understand this is educational information, not legal advice.
+
+Submit Question
+
+Thank you! We typically respond within one business day.
+
+$16,500+ spent · $0 donated · $0 hosting · 105 domains · 2,000+ pages · All free, forever.
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+
+Support on GitHub
+
+Related Guides
+
+SBA Loans and Bankruptcy
+
+Complete guide to discharging SBA debt
+
+sbaborrowerbankruptcy.com →
+
+SBA Forgiveness vs Bankruptcy
+
+OIC, settlement, and debt relief comparison
+
+saborrowerbankruptcy.com →
+
+EIDL Loans and Bankruptcy
+
+COVID disaster loan discharge guide
+
+eidlbankruptcy.com →
+
+Co-Debtor Stay
+
+Protecting co-signers in Chapter 13
+
+codebtorstay.org →
+
+State Bankruptcy Guides
+
+Exemptions vary dramatically by state. Find your state's homestead, vehicle, and wildcard exemptions.
+
+California · Texas · Florida · New York · Illinois · Ohio
+
+Browse All 50 State Guides →
+
+Part of the Bankruptcy Transparency Network
+
+Real information, no strings.
+
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+EIDL Bankruptcy
+Subchapter V
+Automatic Stay
+Exemptions by State
+Means Test
+File Without a Lawyer
+GitHub Sponsors
+
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (determination pending).
+
+Privacy |
+Terms
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
