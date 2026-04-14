@@ -1,11 +1,12 @@
-# SBA Borrowers in Bankruptcy -- Complete Guide [2026]
+# SBA Borrowers in Bankruptcy - Complete Guide [2026]
 > Guide for SBA borrowers considering bankruptcy. PPP, EIDL, 7(a) loans, personal guarantees, and discharge. 2026 guide.
 
 ## About
 sbaborrowersbankruptcy.com is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- SBA Borrowers in Bankruptcy -- Complete Guide: https://sbaborrowersbankruptcy.com/
+- SBA Borrowers in Bankruptcy - Complete Guide: https://sbaborrowersbankruptcy.com/
+- Privacy Policy: https://sbaborrowersbankruptcy.com/privacy.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org

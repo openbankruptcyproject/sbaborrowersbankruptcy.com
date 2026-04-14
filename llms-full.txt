@@ -6,16 +6,18 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 
 ---
 
-## SBA Borrowers in Bankruptcy -- Complete Guide [2026]
+## SBA Borrowers in Bankruptcy - Complete Guide [2026]
 Source: https://sbaborrowersbankruptcy.com/
+
+Skip to main content
 
 SBA Borrowers in Bankruptcy
 
 Personal Guarantees, Co-Signers, and Multi-Debtor Strategies
 
-Yes -- SBA Debt Is Dischargeable
+Yes - SBA Debt Is Dischargeable
 
-Every type of SBA loan -- 7(a), 504, EIDL, and microloans -- can be discharged in bankruptcy. There is no special carve-out for government-guaranteed business debt the way there is for student loans. The SBA guarantee protects the lender from loss, not the borrower from discharge.
+Every type of SBA loan - 7(a), 504, EIDL, and microloans - can be discharged in bankruptcy. There is no special carve-out for government-guaranteed business debt the way there is for student loans. The SBA guarantee protects the lender from loss, not the borrower from discharge.
 
 But "dischargeable" does not mean simple. SBA loans create a web of liability that can include the business entity, the individual owner, the owner's spouse, co-owners, and sometimes outside co-signers. Each person's liability must be addressed separately. For a complete overview of SBA loans in bankruptcy, see our main SBA borrower bankruptcy guide.
 
@@ -23,7 +25,7 @@ The Personal Guarantee Web
 
 SBA lending rules (SOP 50 10) require personal guarantees from every owner with 20% or more equity in the business. In practice, many lenders also require guarantees from owners below 20%, and sometimes from non-owner family members or business associates.
 
-Each guarantor is jointly and severally liable for the full loan balance. This means the SBA can collect the entire amount from any single guarantor -- not just their proportional share. When one guarantor files bankruptcy, the remaining guarantors become even more exposed because the SBA concentrates collection on them.
+Each guarantor is jointly and severally liable for the full loan balance. This means the SBA can collect the entire amount from any single guarantor - not just their proportional share. When one guarantor files bankruptcy, the remaining guarantors become even more exposed because the SBA concentrates collection on them.
 
 Critical rule: A bankruptcy discharge only eliminates your obligation. It does not protect co-guarantors. If you file and your business partner does not, your partner is still liable for the entire balance. This is why coordinated multi-party filings are often necessary.
 
@@ -43,7 +45,7 @@ The most common mistake SBA borrowers make is filing only one type of bankruptcy
 
 Business-only filing (Chapter 7 or 11): Addresses the entity's debt. A Chapter 7 liquidates the business. A Chapter 11 or Subchapter V restructures it. Neither eliminates your personal guarantee. The SBA will pursue you individually after the business case closes.
 
-Personal-only filing (Chapter 7 or 13): Eliminates your personal guarantee obligation. The business entity's debt remains. If the business is still operating, this can work -- the business continues paying while your personal exposure is eliminated.
+Personal-only filing (Chapter 7 or 13): Eliminates your personal guarantee obligation. The business entity's debt remains. If the business is still operating, this can work - the business continues paying while your personal exposure is eliminated.
 
 Coordinated filing: The most comprehensive approach. The business files Chapter 7 (if closing) or Subchapter V (if continuing), and you file personal Chapter 7 simultaneously. This eliminates all SBA liability in one coordinated action. Courts in the same district can administer both cases efficiently.
 
@@ -61,7 +63,7 @@ When an SBA loan involves multiple guarantors (common in partnerships and multi-
 
 Simultaneous filing: All guarantors file at the same time. This prevents the SBA from shifting collection to non-filing guarantors. Most efficient when all parties are equally unable to pay.
 
-Sequential filing: One guarantor files first, followed by others. This may be necessary when co-guarantors are in different financial situations or different states. The first filer's discharge eliminates only their obligation -- others must file to eliminate theirs.
+Sequential filing: One guarantor files first, followed by others. This may be necessary when co-guarantors are in different financial situations or different states. The first filer's discharge eliminates only their obligation - others must file to eliminate theirs.
 
 Chapter 13 co-debtor stay: If you file Chapter 13 (not Chapter 7), the co-debtor stay under 11 U.S.C. 1301 temporarily protects consumer co-debtors from collection. Note: this only applies to consumer debts, and SBA business loans may not qualify. Courts are split on whether personal guarantees of business debt are "consumer" for co-debtor stay purposes.
 
@@ -69,7 +71,7 @@ Frequently Asked Questions
 
 Can SBA debt be discharged in bankruptcy?
 
-Yes. All types of SBA debt -- 7(a), 504, EIDL, and microloans -- are fully dischargeable in bankruptcy. There is no special exception for government-guaranteed business loans. Both the loan itself and any personal guarantee obligation can be eliminated through discharge.
+Yes. All types of SBA debt - 7(a), 504, EIDL, and microloans - are fully dischargeable in bankruptcy. There is no special exception for government-guaranteed business loans. Both the loan itself and any personal guarantee obligation can be eliminated through discharge.
 
 Does my spouse have to file bankruptcy if I have an SBA loan?
 
@@ -77,7 +79,7 @@ Only if your spouse signed the personal guarantee or is a co-borrower. In commun
 
 What happens to my business partner's liability if I file bankruptcy?
 
-Your bankruptcy discharge only eliminates your personal obligation. Co-guarantors and business partners who also signed personal guarantees remain fully liable for the entire loan balance. The SBA can -- and typically does -- pursue remaining guarantors after one files bankruptcy.
+Your bankruptcy discharge only eliminates your personal obligation. Co-guarantors and business partners who also signed personal guarantees remain fully liable for the entire loan balance. The SBA can - and typically does - pursue remaining guarantors after one files bankruptcy.
 
 Can I discharge an SBA loan without closing my business?
 
@@ -232,6 +234,7 @@ Exemptions by State
 Means Test
 File Without a Lawyer
 GitHub Sponsors
+Rule 9037 PII Scanner
 
 Free bankruptcy education for the public interest. Not legal advice.
 If you need legal help, contact a licensed attorney in your state.
@@ -242,3 +245,77 @@ Privacy |
 Terms
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+Cited by the Federal Rules Committee (26-BK-3)
+
+---
+
+## Privacy Policy - sbaborrowersbankruptcy.com
+Source: https://sbaborrowersbankruptcy.com/privacy.html
+
+sbaborrowersbankruptcy.com
+
+Home
+Privacy
+
+Privacy Policy
+
+How we handle your data. Short version: we don't sell it, share it, or use it for advertising.
+
+Data We Collect
+
+We use Google Analytics (GA4) to measure aggregate site traffic. This includes page views, session duration, approximate geographic region (country and city level), and device type. We do not collect names, email addresses, or personally identifiable information through analytics.
+
+Aggregate event data from Google Analytics is also exported to Google BigQuery for research use. The BigQuery data is used only for internal trajectory analysis and network health reports, is not shared with third parties, and is not used for advertising.
+
+What We Don't Do
+
+We do not sell data. We do not run advertising. We do not collect financial information. We do not use retargeting. We do not share any user data with attorneys, law firms, creditors, debt collectors, or legal service providers.
+
+Specifically, we do not enable Google Signals, Google Ads integration, User-ID collection, or any cross-device tracking feature in Google Analytics. GA4 operates in aggregate-traffic-measurement mode only on this site.
+
+Cookies
+
+We use only first-party cookies set by Google Analytics for aggregate traffic measurement. We do not use advertising cookies, tracking pixels, or third-party analytics cookies.
+
+Third-Party Services
+
+Google Analytics (GA4) - aggregate traffic measurement
+
+Google BigQuery - aggregate event data warehouse for research use only; not shared, not used for advertising
+
+Google Search Console - search query measurement (clicks, impressions, our own page rankings)
+
+GitHub Pages - hosting
+
+Contact Forms & Email
+
+This site may link to contact forms or email addresses operated by the Open Bankruptcy Project. Any data you submit through those channels is handled under the Open Bankruptcy Project master privacy policy, which governs all sites in this network.
+
+Children's Privacy
+
+This site is not directed at children under 13. We do not knowingly collect information from children.
+
+Data Retention
+
+Analytics data is retained for 14 months per Google's standard retention settings. After that window, individual event data is automatically deleted by Google; aggregate report metrics remain available.
+
+Your Rights
+
+You may request deletion of any personal data we hold by contacting info@openbankruptcyproject.org. California residents have additional rights under CCPA. EU residents have additional rights under GDPR. All such requests are handled by the Open Bankruptcy Project.
+
+Network Policy
+
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+
+Changes
+
+We may update this policy from time to time. Changes are reflected on the master policy first and then mirrored across all network sites. Check the master policy for the most current version.
+
+Effective: March 30, 2026  |  Updated: April 11, 2026
+
+Home  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
